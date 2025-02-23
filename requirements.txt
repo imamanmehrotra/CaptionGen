@@ -1,5 +1,4 @@
 python-dotenv
 pillow
 groq
-jsonlib
 requests
