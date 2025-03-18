@@ -1,4 +1,8 @@
 python-dotenv
 pillow
 groq
+jsonlib
 requests
+langchain
+langchain-groq
+streamlit
